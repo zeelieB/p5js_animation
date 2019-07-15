@@ -1,0 +1,13 @@
+#overwriting{
+    color:black;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;     
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    z-index:5;
+    padding:10px;
+    opacity: 70%;
+    border-style: solid;
+    border-width: 25px;
+    border-color: rosybrown;
+}
